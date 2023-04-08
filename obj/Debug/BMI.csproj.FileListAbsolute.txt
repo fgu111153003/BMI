@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\bin\Debug\BMI.exe.config
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\bin\Debug\BMI.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\bin\Debug\BMI.pdb
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.g.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\BMI\obj\Debug\BMI.pdb
